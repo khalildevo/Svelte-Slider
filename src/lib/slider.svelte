@@ -1,6 +1,5 @@
 <script>
   import { blur } from "svelte/transition";
-
   export let duration;
   export let slides;
   let currentSlide = 0;
