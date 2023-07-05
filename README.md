@@ -1,6 +1,6 @@
 # create-svelte
 
-This is a barrebones slider made with svelte.
+This is a barebones slider made with svelte.
 
 Copy the repo and run:
 npm i
